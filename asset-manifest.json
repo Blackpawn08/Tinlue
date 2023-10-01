@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Tinlue/static/css/main.073c9b0a.css",
+    "main.js": "/Tinlue/static/js/main.68523108.js",
+    "static/js/787.448ba17a.chunk.js": "/Tinlue/static/js/787.448ba17a.chunk.js",
+    "static/media/logo.svg": "/Tinlue/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Tinlue/index.html",
+    "main.073c9b0a.css.map": "/Tinlue/static/css/main.073c9b0a.css.map",
+    "main.68523108.js.map": "/Tinlue/static/js/main.68523108.js.map",
+    "787.448ba17a.chunk.js.map": "/Tinlue/static/js/787.448ba17a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.68523108.js"
+  ]
+}
